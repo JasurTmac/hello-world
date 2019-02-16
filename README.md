@@ -1,3 +1,6 @@
-# hello-world
-A new repository
-I'M JASUR
+<html>
+    <head>
+      <p> This is a Index page</p>
+      <p> Hello World</p>
+    </head>
+</html>
